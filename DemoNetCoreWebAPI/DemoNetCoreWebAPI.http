@@ -1,0 +1,6 @@
+@DemoNetCoreWebAPI_HostAddress = http://localhost:5074
+
+GET {{DemoNetCoreWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
